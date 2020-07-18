@@ -4,20 +4,24 @@
 Mahindra First choice dataset is used to predict Customer lifetime value, Time series forecasting and Interesting EDA is performed.
 
 Geological Based Customer Analysis:
-Problem Statement – 1: Identifying the ownership pattern of cars throughout the country.
 
-Problem Statement – 2: Identify the type of order each state receives
+● Problem Statement-1: Identifying the ownership pattern of cars throughout the country.
 
-Market Segmentation: Problem Statement: Customer Lifetime Value Prediction – Based on Customer Segments using Time series analysis
+● Problem Statement-2: Identify the type of order each state receives.
 
-# Approach
+● Market Segmentation: Problem Statement: Customer Lifetime Value Prediction – Based on Customer Segments using Time series analysis.
 
-Cleaning the data
-Processing and preparing the data for further analysis
-Analyzing data through various visual tools
-Building Predictive Models
+● Expected Business Outcome: This could potentially give information about how Mahindra First Choice needs to be prepared to tackle various seasonal cases.
 
-Data Cleaning
+## Approach
+
+Following activities were perfomed
+1. Cleaning the data
+2. Processing and preparing the data for further analysis
+3. Analyzing data through various visual tools
+4. Building Predictive Models
+
+### Data Cleaning
 In this process, 
 ● Effective measures were used to handle large volume data.
 
@@ -25,7 +29,7 @@ In this process,
 
 ● Encode the categorical variables.
 
-Data Processing
+### Data Processing
 ● Preparing the data by tagging geolocation with positions.
 
 ● Deriving Relevant features from multiple tables.
